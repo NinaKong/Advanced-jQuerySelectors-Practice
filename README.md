@@ -14,4 +14,4 @@ Practice for advanced jQuery filters.
 - $("h1 + div").css("padding", "5em"); 
 - $("div a").css("font-size", "2.5em");
 - $("div a.github").css("color", "#b26c34"); 
-- $(".github - a").css("color", "#eba96d"); 
+- $(".github ~ a").css("color", "#eba96d"); 
